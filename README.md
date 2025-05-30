@@ -125,6 +125,9 @@ Your deployed frontend:
    ## Contact
 
    For any questions or issues, please contact:
+
    Puneetharaj K R
+
    puneetharajkr123@gmail.com
+
    https://github.com/Puneetharajkr
